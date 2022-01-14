@@ -1,0 +1,8 @@
+
+
+#BgImg{
+    background-image: url(assets/imagenes/Background.jpg);
+    background-size: cover; 
+    background-position: center;
+
+}
